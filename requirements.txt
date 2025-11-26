@@ -1,0 +1,10 @@
+pytesseract
+pdfminer.six
+python-docx
+pandas
+numpy
+scikit-learn
+sqlalchemy
+tqdm
+pillow
+pyyaml
